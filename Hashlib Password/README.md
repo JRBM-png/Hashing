@@ -14,4 +14,7 @@ None, the haslib library is built into python
 ### Run the file
 Open the file in your IDE, change the password on line 10, run the file and compare the hashs displayed.
 
+## Credits
+https://youtu.be/i-h0CtKde6w?si=OcFb1zmz-_fXAv4A
+
   
